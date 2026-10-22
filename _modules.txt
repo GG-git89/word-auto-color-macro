@@ -1,0 +1,8 @@
+源文件: C:\Users\Zhang\Documents\deepseek-harness\default-workspace\ecm_work\EngineeringChangeMarker.dotm
+部件  : word/vbaProject.bin
+代码页: cp936
+
+文件                   类型                 VBE扩展名       源码偏移    行数
+ThisDocument.bas     类/文档模块             cls          1017     8
+frmChangeMarker.bas  窗体代码(UserForm)     frm          8620   170
+修改涂色.bas             标准模块               bas         20168   481
